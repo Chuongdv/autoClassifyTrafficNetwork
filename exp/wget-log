@@ -1,0 +1,11 @@
+--2020-04-26 00:57:47--  https://ti.arc.nasa.gov/m/project/autoclass/autoclass-c-3-3-6.tar.gz
+Resolving ti.arc.nasa.gov (ti.arc.nasa.gov)... 128.102.105.66, 2001:4d0:6311:2227:14b6:372b:2078:2a94
+Connecting to ti.arc.nasa.gov (ti.arc.nasa.gov)|128.102.105.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2234023 (2.1M) [application/x-tar]
+Saving to: ‘autoclass-c-3-3-6.tar.gz’
+
+autoclass-c-3-3-6.t   6%[>                   ] 152.00K   127KB/s               autoclass-c-3-3-6.t  10%[=>                  ] 232.00K   162KB/s               autoclass-c-3-3-6.t  16%[==>                 ] 360.00K   215KB/s               autoclass-c-3-3-6.t  25%[====>               ] 552.00K   289KB/s               autoclass-c-3-3-6.t  35%[======>             ] 776.00K   318KB/s               autoclass-c-3-3-6.t  48%[========>           ]   1.04M   369KB/s               autoclass-c-3-3-6.t  63%[===========>        ]   1.35M   387KB/s    eta 2s     autoclass-c-3-3-6.t  64%[===========>        ]   1.37M   345KB/s    eta 2s     autoclass-c-3-3-6.t  81%[===============>    ]   1.73M   411KB/s    eta 2s     autoclass-c-3-3-6.t  81%[===============>    ]   1.74M   393KB/s    eta 2s     autoclass-c-3-3-6.t  82%[===============>    ]   1.76M   377KB/s    eta 1s     autoclass-c-3-3-6.t  89%[================>   ]   1.90M   387KB/s    eta 1s     autoclass-c-3-3-6.t  90%[=================>  ]   1.93M   376KB/s    eta 1s     autoclass-c-3-3-6.t  92%[=================>  ]   1.98M   368KB/s    eta 1s     autoclass-c-3-3-6.t  96%[==================> ]   2.05M   367KB/s    eta 1s     autoclass-c-3-3-6.t 100%[===================>]   2.13M   380KB/s    in 5.7s    
+
+2020-04-26 00:57:54 (380 KB/s) - ‘autoclass-c-3-3-6.tar.gz’ saved [2234023/2234023]
+
